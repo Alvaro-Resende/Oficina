@@ -247,7 +247,7 @@ export default function senac_oficina() {
 
       </div>
 
-    <div className="w-full h-[80px] bg-[#EFEFEF] mt-14 flex justify-center items-center space-x-3">
+    <div className="w-full h-[80px] bg-[#EFEFEF] mt-14 flex justify-center items-center space-x-8">
         <h1 className="text-gray-500 text-[22px]">Central de Relacionamento: 0800 724 44 40 (Minas Gerais)</h1>
         <h1 className="text-gray-500 text-[22px]">31 3057-8600 (Demais Estados) </h1>
     </div>
